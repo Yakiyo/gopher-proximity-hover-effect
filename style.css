@@ -1,0 +1,44 @@
+body {
+  align-items: center;
+  background-color: #000;
+  display: flex;
+  justify-content: center;
+  margin: 0;
+}
+
+#main {
+  margin: auto;
+  position: absolute;
+}
+
+#eyes {
+  top: 280px;
+  position: absolute;
+}
+
+.eye {
+  position: relative;
+}
+
+/*body {
+    background-color: #000;
+    color: #fff;
+    padding: 0;
+    margin: 0;
+}
+
+main {
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+    position: absolute;
+    left: 30%;
+}
+
+#eyes {
+    position: relative;
+}
+
+.eye {
+    position: relative;
+}*/
